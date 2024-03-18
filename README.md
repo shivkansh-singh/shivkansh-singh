@@ -12,8 +12,7 @@ I'm Shivkansh Singh, a Devops Engineer from India passionate about developing pr
 - 💬 Ask me about **Linux, Ansible, Amazon Web Services, Terraform, Docker, Kubernetes, Git, Github, Jenkins, Python**
  
 -   📫 How to reach me? **shivkanshsingh4323@gmail.com**  💌
--
-Connect with me:
+-    Connect with me:
 <a href="https://linkedin.com/in/shivkanshsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivkanshsingh" height="30" width="40" /></a>
 - ⚡ Fun fact **we guys automate things**
 
